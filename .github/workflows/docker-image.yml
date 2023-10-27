@@ -22,3 +22,4 @@ jobs:
         registry: ghcr.io
         username: ${{ secrets.USERNAME }}
         password: ${{ secrets.ACCESS_TOKEN }}
+
